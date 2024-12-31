@@ -10,7 +10,7 @@
     <li>tqdm</li>
 </ul>
 <h2>Get Started</h2>
-<p>Make sure you have the right files in the folders <strong>JPEGImages/</strong>, <strong>XMLAnnotations/</strong> and <strong>ImageSplits/</strong>. You can download them from <a>http://vision.stanford.edu/Datasets/40actions.html</a> and copy to the corresponding folders.</p>
+<p>Make sure you have the right files in the folders <strong>JPEGImages/</strong>, <strong>XMLAnnotations/</strong> and <strong>ImageSplits/</strong>. You can download them from <code>http://vision.stanford.edu/Datasets/40actions.html</code> and copy to the corresponding folders.</p>
 <h2>Usage</h2>
 
 <h3>1. Create Training and Testing Sets</h3>
